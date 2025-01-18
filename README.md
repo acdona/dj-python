@@ -21,6 +21,8 @@ A. C. <b>Doná Dev FS</b>
     - .gitignore
 
 ## Instalação
+
+## Criar repositório vazio no Github (acdona/dj-python)
 ### Comandos Git
 #### 1 - Inicializar um novo repositorio GIT.
 
@@ -28,12 +30,41 @@ A. C. <b>Doná Dev FS</b>
  git init
  ```
 
- #### 2 - Adicionar todos os arquivos modificados na área de preparação.
+#### 2 - Adicionar todos os arquivos modificados na área de preparação.
 
 ```bash
  git add .
  ```
 
+#### 3 - Commit registra as alterações feitas nos arquivos que foram adicionados na área de preparação.
+
+```bash
+git commit -m "chore(Arquivos iniciais): Preparação e envio dos arquivos iniciais para guithub"
+ ```
+
+#### 4 - Verificar qual branch está.
+
+```bash
+git branch
+ ```
+
+#### 5 - Renomear a branch atual no GIT para main.
+
+```bash
+git branch -M main
+```
+
+#### 6 - Adicionar um repositório remoto ao repositório local.
+
+```bash
+git remote add origin https://github.com/acdona/dj-python.git
+```
+
+#### 7 - Enviar os commits locais para um repositório remoto.
+
+```bash
+git push -u origin main
+```
 
 ### Pré requisitos
 
