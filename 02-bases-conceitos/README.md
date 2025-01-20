@@ -206,7 +206,7 @@ print (0 == False)
 print (1 == True)
 # out True
 ```
-## Funções no Python
+# Funções no Python
 ### Uma função nada mais é do que um conjunto ou bloco de comandos que executam alguma ação ou tarefa.
 ### A função pode possuir parâmetros ou não.
 

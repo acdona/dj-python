@@ -39,7 +39,7 @@ A. C. <b>Doná Dev FS</b>
 #### 3 - Commit registra as alterações feitas nos arquivos que foram adicionados na área de preparação.
 
 ```bash
-git commit -m "chore(Arquivos iniciais): Preparação e envio dos arquivos iniciais para guithub"
+git commit -m "chore(Arquivos iniciais): Preparação e envio dos arquivos iniciais para github"
  ```
 
 #### 4 - Verificar qual branch está.
@@ -83,7 +83,7 @@ git push -u origin main
 
 ## Crédito
 
-- Antonio Carlos Doná - [acdona](https://guithub.com/acdona)
+- Antonio Carlos Doná - [acdona](https://github.com/acdona)
 
 ### Agradecimentos
 Agradecimentos a Microsoft, por disponibilizar gratuitamente, esse sensacional software o [**Visual Studio Code**](https://code.visualstudio.com/).
