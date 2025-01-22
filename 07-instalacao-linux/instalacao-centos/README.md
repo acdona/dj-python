@@ -152,6 +152,6 @@ sudo shutdown now
 
 ![Imagem28:](./images/28.png)
 
-## Processo de instação concluído com êxito.
+## Processo de instalação concluído com êxito.
 ### Para desligar o servidor, quando preciso, clicar em Reiniciar -> Desligar
 
